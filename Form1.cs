@@ -67,7 +67,7 @@ namespace MCPCompiler
                 {
                     // netty
                     wc.DownloadFile(
-                        new System.Uri("https://github.com/Stefqnutz/MCPCompilerAssets/raw/main/netty.zip"),
+                        new System.Uri("https://github.com/TwistVibed/MCPCompilerAssets/raw/main/netty.zip"),
                         "C:\\Users\\" + pcname + "\\Documents\\WORK\\" + clientname + "\\netty.zip"
                     );
                 }
@@ -75,7 +75,7 @@ namespace MCPCompiler
                 {
                     // pack.png
                     wc.DownloadFile(
-                        new System.Uri("https://github.com/Stefqnutz/MCPCompilerAssets/raw/main/pack.png"),
+                        new System.Uri("https://github.com/TwistVibed/MCPCompilerAssets/raw/main/pack.png"),
                         "C:\\Users\\" + pcname + "\\Documents\\WORK\\" + clientname + "\\pack.png"
                     );
                 }
@@ -104,7 +104,7 @@ namespace MCPCompiler
                 {
                     // blockstates
                     wc.DownloadFile(
-                        new System.Uri("https://github.com/Stefqnutz/MCPCompilerAssets/raw/main/blockstates.zip"),
+                        new System.Uri("https://github.com/TwistVibed/MCPCompilerAssets/raw/main/blockstates.zip"),
                         "C:\\Users\\" + pcname + "\\Documents\\WORK\\" + clientname + "\\assets\\minecraft\\blockstates.zip"
                     );
                 }
@@ -112,7 +112,7 @@ namespace MCPCompiler
                 {
                     // font
                     wc.DownloadFile(
-                        new System.Uri("https://github.com/Stefqnutz/MCPCompilerAssets/raw/main/font.zip"),
+                        new System.Uri("https://github.com/TwistVibed/MCPCompilerAssets/raw/main/font.zip"),
                         "C:\\Users\\" + pcname + "\\Documents\\WORK\\" + clientname + "\\assets\\minecraft\\font.zip"
                     );
                 }
@@ -120,7 +120,7 @@ namespace MCPCompiler
                 {
                     // lang
                     wc.DownloadFile(
-                        new System.Uri("https://github.com/Stefqnutz/MCPCompilerAssets/raw/main/lang.zip"),
+                        new System.Uri("https://github.com/TwistVibed/MCPCompilerAssets/raw/main/lang.zip"),
                        "C:\\Users\\" + pcname + "\\Documents\\WORK\\" + clientname + "\\assets\\minecraft\\lang.zip"
                     );
                 }
@@ -128,7 +128,7 @@ namespace MCPCompiler
                 {
                     // models
                     wc.DownloadFile(
-                        new System.Uri("https://github.com/Stefqnutz/MCPCompilerAssets/raw/main/models.zip"),
+                        new System.Uri("https://github.com/TwistVibed/MCPCompilerAssets/raw/main/models.zip"),
                         "C:\\Users\\" + pcname + "\\Documents\\WORK\\" + clientname + "\\assets\\minecraft\\models.zip"
                     );
                 }
@@ -136,7 +136,7 @@ namespace MCPCompiler
                 {
                     // shaders
                     wc.DownloadFile(
-                        new System.Uri("https://github.com/Stefqnutz/MCPCompilerAssets/raw/main/shaders.zip"),
+                        new System.Uri("https://github.com/TwistVibed/MCPCompilerAssets/raw/main/shaders.zip"),
                        "C:\\Users\\" + pcname + "\\Documents\\WORK\\" + clientname + "\\assets\\minecraft\\shaders.zip"
                     );
                 }
@@ -144,7 +144,7 @@ namespace MCPCompiler
                 {
                     // texts
                     wc.DownloadFile(
-                        new System.Uri("https://github.com/Stefqnutz/MCPCompilerAssets/raw/main/texts.zip"),
+                        new System.Uri("https://github.com/TwistVibed/MCPCompilerAssets/raw/main/texts.zip"),
                         "C:\\Users\\" + pcname + "\\Documents\\WORK\\" + clientname + "\\assets\\minecraft\\texts.zip"
                     );
                 }
@@ -152,7 +152,7 @@ namespace MCPCompiler
                 {
                     // textures
                     wc.DownloadFile(
-                        new System.Uri("https://github.com/Stefqnutz/MCPCompilerAssets/raw/main/textures.zip"),
+                        new System.Uri("https://github.com/TwistVibed/MCPCompilerAssets/raw/main/textures.zip"),
                         "C:\\Users\\" + pcname + "\\Documents\\WORK\\" + clientname + "\\assets\\minecraft\\textures.zip"
                     );
                 }
